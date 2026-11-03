@@ -1,11 +1,11 @@
 {
   "name": "@convex-dev/expo-push-notifications",
   "description": "A Convex component for managing push notifications with Expo.",
-  "repository": "github:get-convex/expo-push-notifications",
-  "homepage": "https://github.com/get-convex/expo-push-notifications#readme",
+  "repository": "github:convex/expo-push-notifications",
+  "homepage": "https://github.com/convex/expo-push-notifications#readme",
   "bugs": {
     "email": "support@convex.dev",
-    "url": "https://github.com/get-convex/expo-push-notifications/issues"
+    "url": "https://github.com/convex/expo-push-notifications/issues"
   },
   "version": "0.4.2",
   "license": "Apache-2.0",

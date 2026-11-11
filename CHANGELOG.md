@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.3
+
+### Patch Changes
+
+- 38a0081: Return the registered component API from the test registration
+  helper.
+
 ## 0.4.2
 
 - Include `src/test.ts` in the release

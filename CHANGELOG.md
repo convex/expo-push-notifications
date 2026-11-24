@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.3
+
+### Patch Changes
+
+- Return the registered component API from the test registration helper.
+  ([#118](https://github.com/convex/expo-push-notifications/issues/118))
+
 ## 0.4.2
 
 - Include `src/test.ts` in the release
